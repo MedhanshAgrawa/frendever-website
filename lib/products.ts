@@ -128,9 +128,9 @@ export const products: Product[] = [
     "slug": "kitchen-and-table-textiles",
     "name": "Kitchen & Table Textiles",
     "category": "Kitchen textiles",
-    "image": "/images/basket-check.jpg",
+    "image": "/images/kitchen-textile-1.png",
     "gallery": [
-      "/images/basket-check.jpg",
+      "/images/kitchen-textile-1.png",
       "/images/storage-check.jpg",
       "/images/apron-light.jpg"
     ],
