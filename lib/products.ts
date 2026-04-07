@@ -15,14 +15,33 @@ export type Product = {
 
 export const products: Product[] = [
   {
-    "slug": "waxed-canvas-utility-bags",
-    "name": "Waxed Canvas Utility Bags",
+    "slug": "utility-bags",
+    "name": "Utility Bags",
     "category": "Bags and totes",
-    "image": "/images/tote-tan.jpg",
+    "image": "/images/tote-tan-2.jpg",
     "gallery": [
       "/images/tote-tan.jpg",
       "/images/tote-tan-2.jpg",
-      "/images/tote-small.jpg"
+      "/images/tote-cream.jpg",
+      "/images/olive-worker-bag.jpg",
+      "/images/multicolour-zipup-tote.jpg",
+      "/images/olive-toolbag.jpg",
+      "/images/garden-tote.jpg",
+      "/images/blue-linen-tote-big.jpg",
+      "/images/dtn-one-mile-tote.jpg",
+      "/images/slk-big-messenger.jpg",
+      "/images/gerry-tote.jpg",
+      "/images/pp-bag-big.jpg",
+      "/images/pp-bag-small.jpg",
+      "/images/orange-linen-tote.jpg",
+      "/images/dtn-denim-tote.jpg",
+      "/images/denim-tote-small.jpg",
+      "/images/jacquard-1.jpg",
+      "/images/jacquard-2.jpg",
+      "/images/jacquard-3.jpg",
+      "/images/jacquard-4.jpg",
+      "/images/stc-backpack-blue.jpg",
+      "/images/stc-backpack-black.jpg"
     ],
     "description": "Structured utility bags built for everyday durability, premium visual appeal, and private label flexibility.",
     "highlights": [
@@ -53,13 +72,25 @@ export const products: Product[] = [
   },
   {
     "slug": "premium-aprons",
-    "name": "Premium Aprons",
+    "name": "Premium Utility Aprons",
     "category": "Aprons",
     "image": "/images/apron-brown.jpg",
     "gallery": [
       "/images/apron-brown.jpg",
       "/images/apron-denim.jpg",
-      "/images/apron-light.jpg"
+      "/images/apron-light.jpg",
+      "/images/light-apron-brown.jpg",
+      "/images/grey-canvas-apron.jpg",
+      "/images/linen-apron-grey.jpg",
+      "/images/beige-canvas-apron.jpg",
+      "/images/green-canvas-apron.jpg",
+      "/images/garden-apron-mrt.jpg",
+      "/images/pu-apron-mrt.jpg",
+      "/images/belt-apron.jpg",
+      "/images/herringbone apron.jpg",
+      "/images/mrt-blue-garden.jpg",
+      "/images/yellow-linen-apron.jpg",
+      "/images/vest-apron.jpg"
     ],
     "description": "Workwear-inspired aprons engineered for hospitality, retail, gifting, and home kitchen programs.",
     "highlights": [
