@@ -204,7 +204,7 @@ export const products: Product[] = [
     "slug": "lifestyle-and-personal-accessories",
     "name": "Lifestyle & Personal Accessories",
     "category": "Lifestyle accessories",
-    "image": "/images/lifestyle-accessories-1.png",
+    "image": "/images/lifestyle-accessories-1.jpg",
     "gallery": [
       "/images/scrunchie-1.png",
       "/images/scrunchie-2.png",
