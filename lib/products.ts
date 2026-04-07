@@ -53,11 +53,14 @@ export const products: Product[] = [
       "Waxed cotton",
       "Canvas",
       "Cotton",
-      "Recycled trims"
+      "Recycled trims",
+      "Nylon",
+      "Polyester",
+      "Polypropylene"
     ],
     "finishes": [
       "Washing",
-      "Screen printing",
+      "Screen and Digital printing",
       "Embroidery",
       "Waterproofing"
     ],
@@ -143,7 +146,7 @@ export const products: Product[] = [
     ],
     "finishes": [
       "Lamination",
-      "Screen printing",
+      "Screen and Digital printing",
       "Dyeing"
     ],
     "useCases": [
@@ -163,7 +166,12 @@ export const products: Product[] = [
     "gallery": [
       "/images/kitchen-textile-1.png",
       "/images/storage-check.jpg",
-      "/images/apron-light.jpg"
+      "/images/kitchen-textile-2.png",
+      "/images/kitchen-textile-3.png",
+      "/images/kitchen-textile-4.png",
+      "/images/kitchen-apron-1.png",
+      "/images/mitten-1.png",
+      "/images/pot-holder-1.png",
     ],
     "description": "Buyer-led table and kitchen developments with flexible sourcing, printability, and coordinated packaging.",
     "highlights": [
@@ -179,7 +187,7 @@ export const products: Product[] = [
     ],
     "finishes": [
       "Screen printing",
-      "Digital printing",
+      "Screen and Digital printing",
       "Embroidery",
       "Starching"
     ],
@@ -191,6 +199,51 @@ export const products: Product[] = [
     ],
     "minLeadTime": "Approx. 90 days",
     "featureTag": "Custom program"
+  },
+  {
+    "slug": "lifestyle-and-personal-accessories",
+    "name": "Lifestyle & Personal Accessories",
+    "category": "Lifestyle accessories",
+    "image": "/images/lifestyle-accessories-1.png",
+    "gallery": [
+      "/images/scrunchie-1.png",
+      "/images/scrunchie-2.png",
+      "/images/scrunchie-3.png",
+      "/images/bandana-1.png",
+      "/images/slipper-1.png",
+      "/images/slipper-2.png",
+      "/images/pouch-1.png",
+      "/images/pouch-2.png",
+      "/images/pouch-3.png",
+      "/images/specs-pouch.png",
+    ],
+    "description": "Soft accessories and everyday essentials developed for gifting, travel, beauty, and home comfort programs.",
+    "highlights": [
+      "Home slippers, scrunchies, and beauty pouches",
+      "Suitable for gifting, travel, and private label collections",
+      "Flexible styling, branding, and packaging options"
+    ],
+    "materials": [
+      "Cotton",
+      "Canvas",
+      "Velvet",
+      "Terry",
+      "Polyester blends"
+    ],
+    "finishes": [
+      "Printing",
+      "Embroidery",
+      "Quilting",
+      "Custom trims"
+    ],
+    "useCases": [
+      "Beauty and personal care",
+      "Travel accessories",
+      "Gifting programs",
+      "Retail assortments"
+    ],
+    "minLeadTime": "Approx. 90 days",
+    "featureTag": "Soft accessories"
   }
 ];
 
